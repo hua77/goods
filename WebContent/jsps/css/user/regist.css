@@ -1,0 +1,13 @@
+body{color:#404040;}
+.divBody{margin-left: 240px;}
+.divTitle {font-weight:900; line-height: 30px; background: url(/goods/images/bg_btns.png) repeat-x; background-position:0px -132px; width:880px; height: 30px; border-left: 1px #d0d0d0 solid; border-top: 1px #d0d0d0 solid; border-right: 1px #d0d0d0 solid;}
+.divContent {width:880px; height: 400px; border: 1px #d0d0d0 solid;}
+.table1{width: 850px;}
+.tr1{line-height: 50px;}
+.spanTitle{line-height: 30px; margin-left: 18px;}
+.tdLabel {text-align: right; width: 300px;}
+.tdInput {width: 250px;}
+.tdError {width: 300px;}
+.input {width: 240px; height: 32px; border: 1px #7f9db9 solid; line-height: 32px; padding-left: 10px;}
+.spanVerifyCode{width: 240px; height: 60px; border: 1px #e2e2e2 solid; display: inline-block; text-align: center;}
+.labelError {padding:8px 8px 8px 35px; font-size: 10pt; color: #f40000; background-color: #fef2f2; border: 1px #ffb8b8 solid; background: url(/goods/images/error.png) no-repeat;}
